@@ -1,10 +1,10 @@
-# Hi! I'm Victoria Iashchuk 👋
+# Hi there! I'm Matthew Dsouza
 
-I'm a front-end developer from Warsaw, Poland
+I'm a front-end developer from Mumbai, India
 
 <p>
 - I love React and pixel perfect HTML/CSS<br/>
-- :tree: I'm currently learning Angular and Redux
+- I'm currently learning Angular and Redux
 </p>
 
 ## :rocket: My skills:

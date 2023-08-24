@@ -1,9 +1,9 @@
 # Hi there! I'm Matthew Dsouza
 
-I'm a front-end developer from Mumbai, India
+I'm a front-end developer with a particular obsession with precision and elegance. I make sure to reflect these values in all my work, big or small.
 
 <p>
-- I love React and pixel perfect HTML/CSS<br/>
+- I love React and pixel perfect UI components<br/>
 - I'm currently learning Angular and Redux
 </p>
 

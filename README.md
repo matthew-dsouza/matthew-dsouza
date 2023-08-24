@@ -1,6 +1,6 @@
 # Hi there! I'm Matthew Dsouza
 
-I'm a front-end developer with a particular obsession with precision and elegance. I make sure to reflect these values in all my work, big or small.
+I'm a Front-End Engineer with a particular obsession with precision and elegance.
 
 <p>
 - I love React and pixel perfect UI components<br/>

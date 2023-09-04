@@ -7,8 +7,7 @@ I'm a Front-End Engineer with a particular obsession with precision and elegance
 - I'm currently learning Angular and Redux
 </p>
 
-## Check out my portfolio at:
-https://matthewdsouza.vercel.app
+# Check out my portfolio at: [](https://matthewdsouza.vercel.app)
 
 ## :rocket: My skills:
 

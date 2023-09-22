@@ -7,7 +7,7 @@ I'm a Front-End Engineer with a particular obsession with precision and elegance
 - I'm currently learning Angular and Redux
 </p>
 
-### You can always reach me @**matthewdsouza.one@outlook.com**
+### You can always reach me at **matthewdsouza.one@outlook.com**
 
 ### Check out my portfolio: [matthewdsouza.vercel.app](https://matthewdsouza.vercel.app)
 

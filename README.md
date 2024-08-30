@@ -1,6 +1,6 @@
 # Hello! I'm Matthew Dsouza
 
-I'm a Web Developer with a particular obsession with precision and elegance. I believe in creating digital experiences, learning from my peers and craftings my own special UI designs and elements.
+I am a developer with a particular obsession with precision and convenience. I believe in creating digital experiences, learning from my peers and crafting my own special tools which help make lives easier.
 
 ### You can always reach me at **matthewdsouza.one@outlook.com**
 

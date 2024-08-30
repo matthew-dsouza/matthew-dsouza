@@ -4,4 +4,5 @@ I am a developer with a particular obsession with precision and convenience. I b
 
 ### You can always reach me at **matthewdsouza.one@outlook.com**
 
-### Check out my portfolio: [matthewdsouza.vercel.app](https://matthewdsouza.vercel.app){:target="_blank"}
+### Check out my portfolio: [matthewdsouza.vercel.app](https://matthewdsouza.vercel.app)
+### Check out my portfolio: <a href="https://matthewdsouza.vercel.app" target="_blank">matthewdsouza.vercel.app</a>
